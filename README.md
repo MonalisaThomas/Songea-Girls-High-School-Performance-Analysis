@@ -80,18 +80,18 @@ As a graduate of the Songea Girls class of 2018 and now a data scientist, I revi
 ---
 
 ## NOTE
-The cleaned dataset acsee_students_long_with_groups.xlsx is too large to be hosted directly on GitHub.
+
+The cleaned dataset `acsee_students_long_with_groups.xlsx` is too large to be hosted directly on GitHub.
 
 This file contains standardized, long-format NECTA ACSEE results from Songea Girls High School between 2014 and 2019.
 
-You can access the original raw dataset from Kaggle:
-NECTA Test Results Dataset by Yusuph
+- You can access the original raw dataset from Kaggle:  
+  [NECTA Test Results Dataset by Yusuph](https://www.kaggle.com/datasets/yusuph/necta-test-results)
 
-If you would like to recreate the cleaned dataset:
+- If you would like to recreate the cleaned dataset:
+  1. Download the raw files from the Kaggle link above.
+ 
 
-Download the raw files from the Kaggle link above.
-
-Follow the cleaning and transformation steps provided in the songea_analysis.R script.
-
-If you would like direct access to the Excel file, feel free to contact me at monalisambilinyi97@gmail.com.
+- If you would like direct access to the Excel file, feel free to contact me at:  
+  **monalisambilinyi97@gmail.com**
 
